@@ -1,0 +1,4 @@
+# Local tool and editor settings
+.claude/
+.idea/
+.DS_Store
